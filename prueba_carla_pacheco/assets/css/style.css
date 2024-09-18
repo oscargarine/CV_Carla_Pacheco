@@ -8,7 +8,7 @@ nav {
       background-color: rgb(233, 191, 136);
       height: 100px;
       display: flex;
-      justify-content: end;
+      justify-content: center;
       font-size: 21px;
       width: 100%;
     & a {
